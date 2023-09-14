@@ -1,0 +1,3 @@
+﻿  017_.cpp
+C:\Users\konyang\source\repos\ConsoleApplication1\017_\017_.cpp(8,9): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  017_.vcxproj -> C:\Users\konyang\source\repos\ConsoleApplication1\x64\Debug\017_.exe
